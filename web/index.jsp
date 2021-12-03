@@ -10,7 +10,7 @@
 
 <h2>Gestión de Cookies</h2>
 
-<form action="/Cookie/ServletCookies" method="post">
+<form action="ServletCookies" method="post">
 	Nombre de la Cookie: <input type="text" name="nombre">
 	<br>
 	Valor de la Cookie: <input type="text" name="valor">
